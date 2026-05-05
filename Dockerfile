@@ -8,6 +8,7 @@ RUN pip install --no-cache-dir --no-compile \
         "pyyaml>=6.0" \
         "cryptography>=41.0" \
         "pymysql>=1.1" \
+        "psycopg2-binary>=2.9" \
         "boto3>=1.34" \
         "awscli"
 
